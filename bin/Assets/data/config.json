@@ -1,0 +1,22 @@
+{
+  "Changeable": {
+    "Graphics": {
+      "LightType": "Forward-Rendering-With-UBO"
+    },
+    "EngineSettings": {
+      "Debug": true,
+      "Canf3": true,
+      "ShowLights": false,
+      "Language": "EN",
+      "WindowSettings": {
+        "VSync": true,
+        "Height": 978,
+        "Width": 1332,
+        "Title": "Minlicon",
+        "LocationX": 0,
+        "LocationY": 0
+      }
+    }
+  },
+  "User-defined": null
+}
