@@ -1,0 +1,39 @@
+================================
+======= task for v0.2.4 ========
+================================
+====== ✖ Not completed ✖ ======
+======== Plan In order =========
+================================
+
+1. Finish New Command System
+2. Finish Method GetCorrectPath (back textures:/ fonts:/ etc.)
+3. Create more ui elements: text field, etc.
+4. Better Console UI (currently, there is only one name for the UI in the console...)
+5. Creating primitive shapes from a box (cube, ball, etc.) (3D)
+6. Loading textures for objects
+7. Add the ability to create an outline for the text (Im so hate this stupid text development)
+
+================================
+========== ✔ Done ✔ ===========
+================================
+
+1. Commands System (17.07) 
+2. Remove all warning 1 accordingly, all are deleted #pragma (24.07)
+3. Need the correct path to files (not relative, full) (24.07)
+4. Make normal state processing (25.07)
+5. Divide the console class into different (25.07)
+6. Simplify the creation of an object (in any way) (25.07) I thought it would be more difficult
+7. Creating primitive shapes from a box (square, circle, triangle, etc.) (2D) (26.07)
+8. Create class Billboard (draw with castom texture) (27.07)
+9. Combine the "Text" & "RichTextSegment" classes into one (30.07)
+10. Create class Billboard (draw with texture) (30.07)
+11. Complete class "Config" (19.08)
+12. Create more ui elements: button (NOT COMPLETED) (19.08)
+13. Finish Lua Wraper & Lua Scripting (20.08-21.08)
+
+================================ 
+======== optimization ==========
+================================
+
+1. Caching the command structure ✔
+2. Text, console, and skybox should be made static. ✖

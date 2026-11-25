@@ -1,0 +1,31 @@
+# Build 
+[Bb]in/
+[Oo]bj/
+debug/
+[Pp]roperties/
+
+# My
+*.env
+/.obsidian
+
+# VS Code specific
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# Compiler and extension temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+packages/
+# NuGet Markup Files
+*.nuget.props
+*.nuget.targets
